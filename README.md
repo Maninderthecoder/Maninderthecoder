@@ -29,7 +29,8 @@ I'm a **Full Stack Engineer** with expertise in building modern, responsive, and
 ## 🛠️ Skills & Technologies
 - **Frontend**: React.js, Next.js, TypeScript, JavaScript
 - **Backend**: Node.js, Express.js
-- **Other**: Java, DSA, Blockchain Development, Web3 Technologies, AWS
+- **Database**: Postgresql, Mongodb
+- **Other**: Java, DSA, C++, Python, Rest API's, Blockchain, Web3 Technologies, AWS
 
 ---
 
