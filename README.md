@@ -3,7 +3,7 @@
 I'm a **Full Stack Engineer** with expertise in building modern, responsive, and dynamic web applications. Passionate about creating impactful digital experiences using cutting-edge technologies like **React.js**, **Next.js**, **Rest API**, **Node.js**, and more.
 
 📧 **Email**: [ms1920af1@gmail.com](mailto:ms1920af1@gmail.com)  
-🔗 Connect with me on [LinkedIn](linkedin.com/in/manindersingh101)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/manindersingh101/)  
 💼 **Open to Hire**: Yes, I am actively looking for opportunities to collaborate on exciting projects or join innovative teams.
 
 ---
