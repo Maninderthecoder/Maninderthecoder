@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Engineer** with expertise in building modern, responsive, and dynamic web applications. Passionate about creating impactful digital experiences using cutting-edge technologies like **React.js**, **Next.js**, **Rest API**, **Node.js**, and more.
 
-📧 **Email**: [ms1920af1@gmail.com](mailto:ms1920af@gmail.com)  
+📧 **Email**: [ms1920af@gmail.com](mailto:ms1920af@gmail.com)  
 💼 **Open to Hire**: Yes, I am actively looking for opportunities to collaborate on exciting projects or join innovative teams.
 
 ---
