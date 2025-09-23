@@ -1,36 +1,56 @@
 # Hi, I'm Maninder Singh 👋
 
-I'm a **Full Stack Engineer** with expertise in building modern, responsive, and dynamic web applications. Passionate about creating impactful digital experiences using cutting-edge technologies like **React.js**, **Next.js**, **Rest API**, **Node.js**, and more.
+I'm a **Full Stack Engineer** passionate about building modern, responsive, and impactful web applications. I enjoy turning ideas into digital products using technologies like **React.js**, **Next.js**, **Node.js**, and more. My focus is always on creating smooth user experiences and scalable solutions.
 
-📧 **Email**: [ms1920af@gmail.com](mailto:ms1920af@gmail.com)  
-💼 **Open to Hire**: Yes, I am actively looking for opportunities to collaborate on exciting projects or join innovative teams.
+📧 **Email**: [ms1920af@gmail.com](mailto:ms1920af@gmail.com)
+💼 **Open to Hire**: Actively seeking opportunities to collaborate on exciting projects or join innovative teams.
 
 ---
 
-## 🌟 Featured Project: **EVCarBike.com**
-🔗 **Live Link**: [EVCarBike.com](https://www.evcarbike.com/)  
+## 🚀 Featured Projects
 
-**EVCarBike** is a platform dedicated to Indian electric vehicles, offering:
-- Detailed information such as city-specific prices, specifications, colors, and features.
-- Robust search functionality enabling users to easily find and compare EVs.
+### 1. **InterviewHelpAI.com**
 
+🔗 **Live Link**: [InterviewHelpAI.com](https://www.interviewhelpai.com/)
 
-### Homepage Screenshots
+**InterviewHelpAI** is a real-time interview copilot designed to help candidates prepare and perform better in interviews:
 
-#### Desktop View
-![Desktop Homepage](./homepage-desktop.png "Desktop Homepage")
+* Provides **AI-powered real-time assistance** during interviews.
+* Designed for **scalability and performance** with Next.js and serverless architecture.
 
-#### Mobile View
-![Mobile Homepage](./homepage-mobile.png "Mobile Homepage")
+#### Homepage Screenshot
+
+![InterviewHelpAI Homepage](./interviewhelpai-home.png "InterviewHelpAI Homepage")
+
+---
+
+### 2. **EVCarBike.com**
+
+🔗 **Live Link**: [EVCarBike.com](https://www.evcarbike.com/)
+
+**EVCarBike** is a platform dedicated to Indian electric vehicles:
+
+* Offers **detailed EV information** including city-specific prices, specifications, colors, and features.
+* Powerful **search and comparison tools** for better decision-making.
+* Built to support India’s growing EV ecosystem.
+
+#### Homepage Screenshots
+
+* **Desktop View**
+  ![Desktop Homepage](./homepage-desktop.png "Desktop Homepage")
+
+* **Mobile View**
+  ![Mobile Homepage](./homepage-mobile.png "Mobile Homepage")
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Frontend**: React.js, Next.js, TypeScript, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: Postgresql, Mongodb
-- **Other**: Java, DSA, C++, Python, Rest API's, Blockchain, Web3 Technologies, AWS
+
+* **Frontend**: React.js, Next.js, TypeScript, JavaScript
+* **Backend**: Node.js, Express.js
+* **Database**: PostgreSQL, MongoDB
+* **Other**: Java, DSA, C++, Python, REST APIs, Blockchain, Web3, AWS
 
 ---
 
-Feel free to reach out for collaborations or any project discussions!
+✨ Always open to collaborations, innovative projects, and meaningful tech conversations!
