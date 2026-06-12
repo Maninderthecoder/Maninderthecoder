@@ -24,26 +24,6 @@ I'm a **Full Stack Engineer** passionate about building modern, responsive, and 
 
 ---
 
-### 2. **EVCarBike.com**
-
-🔗 **Live Link**: [EVCarBike.com](https://www.evcarbike.com/)
-
-**EVCarBike** is a platform dedicated to Indian electric vehicles:
-
-* Offers **detailed EV information** including city-specific prices, specifications, colors, and features.
-* Powerful **search and comparison tools** for better decision-making.
-* Built to support India’s growing EV ecosystem.
-
-#### Homepage Screenshots
-
-* **Desktop View**
-  ![Desktop Homepage](./homepage-desktop.png "Desktop Homepage")
-
-* **Mobile View**
-  ![Mobile Homepage](./homepage-mobile.png "Mobile Homepage")
-
----
-
 ## 🛠️ Skills & Technologies
 
 * **Frontend**: React.js, Next.js, TypeScript, JavaScript
